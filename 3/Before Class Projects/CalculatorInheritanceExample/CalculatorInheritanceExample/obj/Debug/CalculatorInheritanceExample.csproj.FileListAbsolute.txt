@@ -1,0 +1,14 @@
+D:\Education\4\حل تمرین\سی شارپ\CalculatorInheritanceExample\CalculatorInheritanceExample\bin\Debug\CalculatorInheritanceExample.exe.config
+D:\Education\4\حل تمرین\سی شارپ\CalculatorInheritanceExample\CalculatorInheritanceExample\bin\Debug\CalculatorInheritanceExample.exe
+D:\Education\4\حل تمرین\سی شارپ\CalculatorInheritanceExample\CalculatorInheritanceExample\bin\Debug\CalculatorInheritanceExample.pdb
+D:\Education\4\حل تمرین\سی شارپ\CalculatorInheritanceExample\CalculatorInheritanceExample\obj\Debug\CalculatorInheritanceExample.csproj.AssemblyReference.cache
+D:\Education\4\حل تمرین\سی شارپ\CalculatorInheritanceExample\CalculatorInheritanceExample\obj\Debug\CalculatorInheritanceExample.csproj.CoreCompileInputs.cache
+D:\Education\4\حل تمرین\سی شارپ\CalculatorInheritanceExample\CalculatorInheritanceExample\obj\Debug\CalculatorInheritanceExample.exe
+D:\Education\4\حل تمرین\سی شارپ\CalculatorInheritanceExample\CalculatorInheritanceExample\obj\Debug\CalculatorInheritanceExample.pdb
+D:\Education\4\حل تمرین\سی شارپ\3\Before Class Projects\CalculatorInheritanceExample\CalculatorInheritanceExample\bin\Debug\CalculatorInheritanceExample.exe.config
+D:\Education\4\حل تمرین\سی شارپ\3\Before Class Projects\CalculatorInheritanceExample\CalculatorInheritanceExample\bin\Debug\CalculatorInheritanceExample.exe
+D:\Education\4\حل تمرین\سی شارپ\3\Before Class Projects\CalculatorInheritanceExample\CalculatorInheritanceExample\bin\Debug\CalculatorInheritanceExample.pdb
+D:\Education\4\حل تمرین\سی شارپ\3\Before Class Projects\CalculatorInheritanceExample\CalculatorInheritanceExample\obj\Debug\CalculatorInheritanceExample.csproj.AssemblyReference.cache
+D:\Education\4\حل تمرین\سی شارپ\3\Before Class Projects\CalculatorInheritanceExample\CalculatorInheritanceExample\obj\Debug\CalculatorInheritanceExample.csproj.CoreCompileInputs.cache
+D:\Education\4\حل تمرین\سی شارپ\3\Before Class Projects\CalculatorInheritanceExample\CalculatorInheritanceExample\obj\Debug\CalculatorInheritanceExample.exe
+D:\Education\4\حل تمرین\سی شارپ\3\Before Class Projects\CalculatorInheritanceExample\CalculatorInheritanceExample\obj\Debug\CalculatorInheritanceExample.pdb

@@ -1,0 +1,7 @@
+D:\Education\4\حل تمرین\سی شارپ\8\RefrenceApp\RefrenceApp\bin\Debug\RefrenceApp.exe.config
+D:\Education\4\حل تمرین\سی شارپ\8\RefrenceApp\RefrenceApp\bin\Debug\RefrenceApp.exe
+D:\Education\4\حل تمرین\سی شارپ\8\RefrenceApp\RefrenceApp\bin\Debug\RefrenceApp.pdb
+D:\Education\4\حل تمرین\سی شارپ\8\RefrenceApp\RefrenceApp\obj\Debug\RefrenceApp.csproj.AssemblyReference.cache
+D:\Education\4\حل تمرین\سی شارپ\8\RefrenceApp\RefrenceApp\obj\Debug\RefrenceApp.csproj.CoreCompileInputs.cache
+D:\Education\4\حل تمرین\سی شارپ\8\RefrenceApp\RefrenceApp\obj\Debug\RefrenceApp.exe
+D:\Education\4\حل تمرین\سی شارپ\8\RefrenceApp\RefrenceApp\obj\Debug\RefrenceApp.pdb

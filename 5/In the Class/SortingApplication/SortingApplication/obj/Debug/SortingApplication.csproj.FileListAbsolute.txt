@@ -1,0 +1,7 @@
+D:\Education\4\حل تمرین\سی شارپ\5\In the Class\SortingApplication\SortingApplication\bin\Debug\SortingApplication.exe.config
+D:\Education\4\حل تمرین\سی شارپ\5\In the Class\SortingApplication\SortingApplication\bin\Debug\SortingApplication.exe
+D:\Education\4\حل تمرین\سی شارپ\5\In the Class\SortingApplication\SortingApplication\bin\Debug\SortingApplication.pdb
+D:\Education\4\حل تمرین\سی شارپ\5\In the Class\SortingApplication\SortingApplication\obj\Debug\SortingApplication.csproj.AssemblyReference.cache
+D:\Education\4\حل تمرین\سی شارپ\5\In the Class\SortingApplication\SortingApplication\obj\Debug\SortingApplication.csproj.CoreCompileInputs.cache
+D:\Education\4\حل تمرین\سی شارپ\5\In the Class\SortingApplication\SortingApplication\obj\Debug\SortingApplication.exe
+D:\Education\4\حل تمرین\سی شارپ\5\In the Class\SortingApplication\SortingApplication\obj\Debug\SortingApplication.pdb

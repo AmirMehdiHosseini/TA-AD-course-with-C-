@@ -1,0 +1,6 @@
+Ali 24
+Hasan 4
+Javad 56
+Mohammad 20
+Reza 23
+

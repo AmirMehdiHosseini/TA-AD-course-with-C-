@@ -1,0 +1,7 @@
+D:\Education\4\حل تمرین\سی شارپ\4\BeforeClass\BankApplication\BankApplication\bin\Debug\BankApplication.exe.config
+D:\Education\4\حل تمرین\سی شارپ\4\BeforeClass\BankApplication\BankApplication\bin\Debug\BankApplication.exe
+D:\Education\4\حل تمرین\سی شارپ\4\BeforeClass\BankApplication\BankApplication\bin\Debug\BankApplication.pdb
+D:\Education\4\حل تمرین\سی شارپ\4\BeforeClass\BankApplication\BankApplication\obj\Debug\BankApplication.csproj.AssemblyReference.cache
+D:\Education\4\حل تمرین\سی شارپ\4\BeforeClass\BankApplication\BankApplication\obj\Debug\BankApplication.csproj.CoreCompileInputs.cache
+D:\Education\4\حل تمرین\سی شارپ\4\BeforeClass\BankApplication\BankApplication\obj\Debug\BankApplication.exe
+D:\Education\4\حل تمرین\سی شارپ\4\BeforeClass\BankApplication\BankApplication\obj\Debug\BankApplication.pdb

@@ -1,0 +1,7 @@
+D:\Education\4\حل تمرین\سی شارپ\3\In the class\GeoFigures\GeoFigures\bin\Debug\GeoFigures.exe.config
+D:\Education\4\حل تمرین\سی شارپ\3\In the class\GeoFigures\GeoFigures\bin\Debug\GeoFigures.exe
+D:\Education\4\حل تمرین\سی شارپ\3\In the class\GeoFigures\GeoFigures\bin\Debug\GeoFigures.pdb
+D:\Education\4\حل تمرین\سی شارپ\3\In the class\GeoFigures\GeoFigures\obj\Debug\GeoFigures.csproj.AssemblyReference.cache
+D:\Education\4\حل تمرین\سی شارپ\3\In the class\GeoFigures\GeoFigures\obj\Debug\GeoFigures.csproj.CoreCompileInputs.cache
+D:\Education\4\حل تمرین\سی شارپ\3\In the class\GeoFigures\GeoFigures\obj\Debug\GeoFigures.exe
+D:\Education\4\حل تمرین\سی شارپ\3\In the class\GeoFigures\GeoFigures\obj\Debug\GeoFigures.pdb

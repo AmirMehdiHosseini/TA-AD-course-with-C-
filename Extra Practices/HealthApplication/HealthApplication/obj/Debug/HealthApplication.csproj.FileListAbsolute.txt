@@ -1,0 +1,7 @@
+D:\Education\4\حل تمرین\سی شارپ\Extra Practices\HealthApplication\HealthApplication\bin\Debug\HealthApplication.exe.config
+D:\Education\4\حل تمرین\سی شارپ\Extra Practices\HealthApplication\HealthApplication\bin\Debug\HealthApplication.exe
+D:\Education\4\حل تمرین\سی شارپ\Extra Practices\HealthApplication\HealthApplication\bin\Debug\HealthApplication.pdb
+D:\Education\4\حل تمرین\سی شارپ\Extra Practices\HealthApplication\HealthApplication\obj\Debug\HealthApplication.csproj.AssemblyReference.cache
+D:\Education\4\حل تمرین\سی شارپ\Extra Practices\HealthApplication\HealthApplication\obj\Debug\HealthApplication.csproj.CoreCompileInputs.cache
+D:\Education\4\حل تمرین\سی شارپ\Extra Practices\HealthApplication\HealthApplication\obj\Debug\HealthApplication.exe
+D:\Education\4\حل تمرین\سی شارپ\Extra Practices\HealthApplication\HealthApplication\obj\Debug\HealthApplication.pdb

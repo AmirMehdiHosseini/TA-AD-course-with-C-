@@ -1,0 +1,7 @@
+D:\Education\4\حل تمرین\سی شارپ\7\LetterCounterProgram\LetterCounterProgram\bin\Debug\LetterCounterProgram.exe.config
+D:\Education\4\حل تمرین\سی شارپ\7\LetterCounterProgram\LetterCounterProgram\bin\Debug\LetterCounterProgram.exe
+D:\Education\4\حل تمرین\سی شارپ\7\LetterCounterProgram\LetterCounterProgram\bin\Debug\LetterCounterProgram.pdb
+D:\Education\4\حل تمرین\سی شارپ\7\LetterCounterProgram\LetterCounterProgram\obj\Debug\LetterCounterProgram.csproj.AssemblyReference.cache
+D:\Education\4\حل تمرین\سی شارپ\7\LetterCounterProgram\LetterCounterProgram\obj\Debug\LetterCounterProgram.csproj.CoreCompileInputs.cache
+D:\Education\4\حل تمرین\سی شارپ\7\LetterCounterProgram\LetterCounterProgram\obj\Debug\LetterCounterProgram.exe
+D:\Education\4\حل تمرین\سی شارپ\7\LetterCounterProgram\LetterCounterProgram\obj\Debug\LetterCounterProgram.pdb
